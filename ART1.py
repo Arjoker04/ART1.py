@@ -34,7 +34,7 @@ class Mr_Code:
         
     def banner(self):
         os.system("clear")
-        os.system("xdg-open https://t.me/arjokerofficial_03")
+        os.system("xdg-open https://t.me/BANGLADESH_ISLAMIC_CYBER_TEAM")
         print("""
 \x1b[1;92m▶𝗔𝗥
 \033[38;5;46m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
