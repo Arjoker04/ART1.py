@@ -195,7 +195,8 @@ def randua(self):
         max = random.choice([ua1,ua2,ua3,ua4,ua5])
         return str(max)
 if __name__ == "__main__":
-    Mr_Code().Main()                head = {
+    Mr_Code().Main()
+				 head = {
                 'User-Agent': ____uax____(),
                 'Accept-Encoding':'gzip, deflate',
                 'Connection':'close',
